@@ -1,2 +1,2 @@
 # TopoFun
-A machine learning method to identify functional modules in gene co-expression networks
+A machine learning method to improve the functional similarity of gene co-expression modules
